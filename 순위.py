@@ -1,5 +1,3 @@
-# 프로그래머스 - 순위
-
 def dfs(a, graph, game):
     stack = [a]
     visited = []
